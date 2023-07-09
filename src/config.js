@@ -12,7 +12,7 @@ const baseUri = "ipfs://NewUriToReplace";
 const solanaMetadata = {
   symbol: "BBB",
   seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
-  external_url: "https://medcrafttherapeutics.ca/contact-us",
+  external_url: "",
   creators: [{name: "Demian Beardo Melnyk"},
     {
       address: "0x5d61e55e6bf49be06c34e07619c5c57b06523fa8",
